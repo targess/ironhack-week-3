@@ -8,3 +8,4 @@ HTML, CSS and JavaScript
 - Exercises - box elements
 - Exercises - positioning elements
 - Exercises - responsive
+- Final Exercise - bootstrap web clone
