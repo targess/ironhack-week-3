@@ -1,0 +1,74 @@
+.social-box {
+	margin: 0 auto;
+	width: 90%
+}
+
+.social-comment {
+	font-family: 'Roboto', sans-serif;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+
+.upper {
+	color: #aaa;
+	padding-top: 5%;
+	font-size: 90%;
+}
+
+.bottom {
+	height: 4%;
+}
+
+strong {
+	color: #2889D8;
+}
+
+.social-photo {
+	width: 50px;
+	height: 50px;
+	margin-right: 2%;
+}
+
+.content {
+	background-color: white;
+	border-radius: 5px;
+	padding: 1.5%;
+}
+
+.tags-bar {
+	border-top: 1px solid #F5F5F5;
+	margin: 0 auto;
+	padding: 2% 0;
+	font-size: 85%;
+}
+
+.tag {
+	border: 1px solid #F5F5F5;
+	padding: 0.5%;
+	margin: 0 0.5%;
+	color: #aaa;
+}
+
+.tag.alert {
+	color: red;
+}
+
+.coins {
+	color: #F3AB4C;
+}
+
+.text {
+	font-size: 130%;
+}
+
+.btn-comment {
+	color: #2889D8;
+	border-color: #2889D8;
+	border-radius: 25px;
+}
+
+.comments-img {
+	background-color: grey;
+	width: 30px;
+	height: 30px;
+}

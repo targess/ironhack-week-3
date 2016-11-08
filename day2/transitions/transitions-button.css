@@ -1,0 +1,10 @@
+.active-button {
+	transition-property: background;
+	transition-duration: .600s;
+	transition-timing-function: linear;
+	transition-delay: 0s;
+}
+
+.active-button:hover {
+	background: green;
+}
