@@ -23,3 +23,9 @@ HTML, CSS and JavaScript
 - Exercises - decoder & super decoder
 - Exercise - Koans - Jasmine testing
 - Final exercise - Caesar Cipher
+
+**Day 4:**
+- Exercises - OO basics
+- Exercises - Average from file async
+- Exercises - Discard repeats from file async
+- Final exercise - The Viking Pit
