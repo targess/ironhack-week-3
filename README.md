@@ -17,3 +17,9 @@ HTML, CSS and JavaScript
 - Exercises - DOM
 - Final Exercise - CSS day. Instagram post
 
+**Day 3:**
+- Exercises - average colon
+- Exercises - double loops
+- Exercises - decoder & super decoder
+- Exercise - Koans - Jasmine testing
+- Final exercise - Caesar Cipher
