@@ -29,3 +29,6 @@ HTML, CSS and JavaScript
 - Exercises - Average from file async
 - Exercises - Discard repeats from file async
 - Final exercise - The Viking Pit
+
+**Day 4:**
+- Final exercise - Quiz Questions
